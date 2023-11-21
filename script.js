@@ -112,6 +112,16 @@ console.log(val.length);
 
 
 
+let num1 = Number ('5');
+let num2 = Number ('10');
+
+
+console.log(num1+num2);
+console.log(typeof num1);
+
+
+
+
 
 
 
