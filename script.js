@@ -69,10 +69,10 @@ console.log(typeof car);
 
 let names=['Ali','Ahmet','Can'];
 
-let adress= {
-    city:'Kocaeli',
-    country:'Türkiye'
-}
+// let adress= {
+//     city:'Kocaeli',
+//     country:'Türkiye'
+// }
  
 
 
@@ -118,6 +118,62 @@ let num2 = Number ('10');
 
 console.log(num1+num2);
 console.log(typeof num1);
+
+
+var customerName = 'Çınar';
+var customerLastName = 'Turan';
+
+var fullname = 'Çınar Turan';
+var musteriId = '1322323232';
+
+
+var total = 205.6;
+var gender = false;   // erkek true, kadın false 
+
+var adress ={
+   city : 'Kocaeli',
+   district : 'İzmit',
+   body : 'Ömerağa mah.No:45'    
+ } 
+ 
+ 
+ var hobbies= ['Sinema', 'Kitap', 'Spor'];
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
