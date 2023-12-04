@@ -140,17 +140,12 @@ var adress ={
  var hobbies= ['Sinema', 'Kitap', 'Spor'];
 
 
- 
-
-
-
 
 
  
 
 
-
-
+ 
 
 
 
@@ -172,8 +167,6 @@ var adress ={
 
 
  
-
-
 
 
 
