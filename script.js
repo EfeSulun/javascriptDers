@@ -130,6 +130,9 @@ var musteriId = '1322323232';
 var total = 205.6;
 var gender = false;   // erkek true, kadın false 
 
+
+
+
 var adress ={
    city : 'Kocaeli',
    district : 'İzmit',
@@ -138,6 +141,73 @@ var adress ={
  
  
  var hobbies= ['Sinema', 'Kitap', 'Spor'];
+
+
+
+
+ var order1='100';
+ var order2='150';
+ var totalOrder = order1 + order2;
+ console.log(totalOrder);
+ var order3=Number('100.2');
+ var order4=Number('150.5');
+ var totalOrder2 =order3 + order4;
+ console.log(totalOrder2);
+ var order4=parseInt('100.2');
+ var order5=parseInt('150.5');
+ var totalOrder3= order4+order5
+ console.log(totalOrder3);
+
+
+ var yearOfBirth = 1986;
+ console.log(new Date().getFullYear()-yearOfBirth);
+
+
+ console.log(course.length);
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
