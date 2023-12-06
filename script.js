@@ -158,13 +158,13 @@ var adress ={
  var totalOrder3= order4+order5
  console.log(totalOrder3);
 
-
- var yearOfBirth = 1986;
+const yearOfBirth = 1986;
+ // yearOfBirth =1987;
  console.log(new Date().getFullYear()-yearOfBirth);
 
-
+let course = 'Java Öğrenme';
  console.log(course.length);
- 
+
 
 
  
