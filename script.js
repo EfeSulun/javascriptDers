@@ -162,9 +162,9 @@ const yearOfBirth = 1986;
  // yearOfBirth =1987;
  console.log(new Date().getFullYear()-yearOfBirth);
 
-let course = 'Java Öğrenme';
- console.log(course.length)
- 
+ let course = 'Java Öğrenme';
+console.log(course.length)
+
 
 
 
